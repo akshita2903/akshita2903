@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshita2903&label=Profile%20views&color=0e75b6&style=flat" alt="akshita2903" /> </p>
 
 
-- 👯 I would love to collaborate **on any project ,if you have**
+- 👯 I would love to collaborate **on any project ,if you have on any tech stack**
 
 - 📫 How to reach me? Drop me a mail -> **akshita29320@gmail.com**
 
